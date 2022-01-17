@@ -1,0 +1,61 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family:'fantasy';
+}
+h1{
+  font-size:100%; 16px;
+  margin-top: 0;
+  font-family: 'fantasy';
+}
+h2{
+  color: #66BFBF;
+  font-family: 'fantasy';
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #66BFBF;
+  font-family: 'fantasy';
+
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container{
+
+}
+.bottom-container{
+
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-cloud{
+  position:absolute;
+  left: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom:
+}
+.code-img{
+  width: 25%;
+  float: left;
+
+}
+.chilli-img{
+  width: 25%;
+  float:right;
+  margin-left:30px;
+}
